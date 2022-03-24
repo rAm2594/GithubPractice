@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 rasgulla
 biriyani
 chicken mandi
+=======
+Lagaan
+Superman
+Batman
+>>>>>>> movies
